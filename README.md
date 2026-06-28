@@ -40,6 +40,6 @@ FOC Servo Nodes
 
 ## License
 
-Hardware: CERN-OHL-S v2 or CERN-OHL-P v2
-Software: Apache-2.0
-Documentation: CC-BY-4.0
+- Hardware: CERN-OHL-S v2 or CERN-OHL-P v2
+- Software: Apache-2.0
+- Documentation: CC-BY-4.0
