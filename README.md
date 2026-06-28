@@ -36,3 +36,10 @@ CAN / CAN-FD
 FOC Servo Nodes
   |
 6DOF Arm + Gripper / Dexterous Hand
+```
+
+## License
+
+Hardware: CERN-OHL-S v2 or CERN-OHL-P v2
+Software: Apache-2.0
+Documentation: CC-BY-4.0
