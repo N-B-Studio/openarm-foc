@@ -6,7 +6,8 @@ The goal is to bring low-cost FOC/CAN servo robotics into the Hugging Face LeRob
 
 ## Video
 Youtube: todo
-Bilibili: todo
+
+Bilibili: https://www.bilibili.com/video/BV1QXHx6EEDL/?share_source=copy_web&vd_source=1cfa98805e173fadcb45b4f55d7a4d81
 
 ![Side view of the OpenArm-FOC robot](Image/side%20view.png)
 
