@@ -4,7 +4,9 @@ OpenArm-FOC is an open-source, 3D-printable, torque-controlled robotic arm platf
 
 The goal is to bring low-cost FOC/CAN servo robotics into the Hugging Face LeRobot ecosystem.
 
-## Side View
+## Video
+Youtube: todo
+Bilibili: todo
 
 ![Side view of the OpenArm-FOC robot](Image/side%20view.png)
 
